@@ -1,9 +1,3 @@
-//-----------------------------------------------------------------------------
-// minivm.h -- Prototypes and definitions for the vm.
-// Copyright (C) Philip Conrad 4/30/2013 @ 3:56 PM -- MIT License
-//
-//-----------------------------------------------------------------------------
-
 #if defined(_MSC_VER)
 #include "stdint.h"
 #else
