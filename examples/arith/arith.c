@@ -1,9 +1,3 @@
-//-----------------------------------------------------------------------------
-// arith.c -- Arithmetic expression evaluator example.
-// Copyright (c) Philip Conrad 2015-04-04 @9:11 PM -- MIT License
-//
-//-----------------------------------------------------------------------------
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>

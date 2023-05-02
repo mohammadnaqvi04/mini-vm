@@ -1,14 +1,5 @@
-//-----------------------------------------------------------------------------
-// example.c -- A simple VM with 4 instructions.
-// Copyright (C) Philip Conrad 4/30/2013 @ 3:56 PM -- MIT License
-//
-//-----------------------------------------------------------------------------
-
 #include <stdio.h>
 #include "../../minivm.h"
-
-//---------------------------------------------------------
-// EXAMPLE FUNCTIONS:
 
 void loadNToReg(struct VMContext* ctx, const uint32_t instr);
 void addReg(struct VMContext* ctx, const uint32_t instr);

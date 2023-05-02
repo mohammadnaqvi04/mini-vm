@@ -1,10 +1,3 @@
-# arith.py -- Simple (RPN) Arithmetic Expression Compiler.
-# Description: Parses simple arithmetic expressions in RPN form and 
-#              generates bytecode to run them on the VM.
-# Author:  Philip Conrad on 2015-04-04 @ 9:58 PM
-# License: MIT-License
-
-
 import struct, sys
 from ast import literal_eval
 
